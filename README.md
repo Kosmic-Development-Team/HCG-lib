@@ -11,5 +11,5 @@ HCG-lib displays graphics similarly in apperance to other colored terminal-based
 - Simple user-input system
 
 ## Minimum Requirements
-- OpenGL Version 3.0
-- LWJGL Version 3
+- OpenGL Version 3.0 or later
+- LWJGL Version 3 (Custom version in lib folder of repository)
